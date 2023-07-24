@@ -34,7 +34,7 @@ void dfs(int x, int y)
 {
     visitada[x][y]= true;
 
-    // vai passar por todas direções
+    // vai passar por todas direÃ§Ãµes
     for(int d = 0 ; d < 4; d++)
     {
         int  vx = x + dx[d];
