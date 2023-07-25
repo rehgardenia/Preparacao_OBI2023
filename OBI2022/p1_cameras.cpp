@@ -1,6 +1,3 @@
-//OBI2022 - Fase 2
-//Cameras
-
 #include <bits\stdc++.h>
 
 using namespace std;
