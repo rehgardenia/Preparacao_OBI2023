@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 # define MAX 510
+
 using namespace std;
 
 char v[MAX];
