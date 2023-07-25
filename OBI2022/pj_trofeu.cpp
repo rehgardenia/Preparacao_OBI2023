@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 #define max 5
+
 using namespace std;
+
 int main(){
     int pontuacao[max+1];
     int maior = 0;
